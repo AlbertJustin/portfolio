@@ -1,0 +1,10 @@
+.btnlink {
+    display: inline-block;
+    padding: 13px 26px;
+    margin: 15px;
+    text-decoration: none;
+    background-color: #fc0377;
+    color: white;
+    border: 1px solid#fc0377;
+    border-radius: 5px;
+};

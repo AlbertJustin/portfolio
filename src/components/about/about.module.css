@@ -1,0 +1,26 @@
+.container {
+    height: 100vh;
+    padding: 50px 230px;
+    margin: 0 auto;
+    background-color: whitesmoke;
+}
+
+.container ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.skillBtn {
+    margin: 10px;
+    padding: 8px 20px;
+    border: 2.5px solid purple;
+    border-radius: 5px;
+    color: purple;
+    background-color: transparent;
+    font-weight: bold;
+}
